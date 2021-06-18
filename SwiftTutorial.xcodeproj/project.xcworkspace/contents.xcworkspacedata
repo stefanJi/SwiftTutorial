@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/jy/Documents/repo/Test/SwiftTutorial.xcodeproj">
    </FileRef>
 </Workspace>
